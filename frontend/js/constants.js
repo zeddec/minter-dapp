@@ -1,7 +1,7 @@
-const contractAddress = "0x8bEFD96D56475822A317D6d55c65De968AA65FEF"; //Replace with your own contract address
+const contractAddress = "0xA076322559C230706139146CAAA77238D26EC47a"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to pxDippies!";
+const welcome_h1 = "Cyka to the blyat my friend!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
